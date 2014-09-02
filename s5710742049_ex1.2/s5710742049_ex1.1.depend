@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409137709 source:c:\users\tu-7\documents\github\5710742049_ex1\s5710742049_ex1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
